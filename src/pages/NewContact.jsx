@@ -10,7 +10,7 @@ export default function Resume() {
         <div id="Contact" className="" style={{ backgroundImage: `url("download.jpg")`, zIndex: "1" }}>
             <img src="bg.avif" className="w-full h-screen absolute" alt="Background" />
 
-            <div className="w-full h-80 flex bg-transparent relative">
+            <div className="w-full h-80 flex bg-transparent relative"> change
                 <img src="pic1.png" className="absolute top-0 right-24 w-1/3"></img>
                 <div className="bg-black absolute ml-20 w-9/12 h-screen  text-white z-10  px-8 bg-opacity-95">
                     <h1 className="text-gray-600  font-bold mt-24">Contact<span className="text-red-900">___________</span></h1>
